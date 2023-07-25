@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.bitrise.sample.android">
+    package="io.bitrise.sample.android"
+    android:versionCode="1" <!-- Add the version code here -->
+    android:versionName="1.0"> <!-- Add the version name here -->
 
     <application
         android:allowBackup="true"
